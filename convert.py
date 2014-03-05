@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin python
 """
 Convert to TSV format and un-nest fields. Print headers at the end.
 
